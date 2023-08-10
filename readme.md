@@ -1,8 +1,4 @@
-# Ankit Ojha : Portfolio website
-### Live website : 
-https://ankitojha.netlify.app/
+# Shaik Sonia : Portfolio website
 
-## Screenshot of the website
-### Lite Mode :
-#### Home -
-![plot](./public/images/output-web/home-lite.png)
+### Live website : 
+https://shaiksonia.netlify.app/
